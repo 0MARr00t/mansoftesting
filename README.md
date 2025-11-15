@@ -24,7 +24,7 @@ In short:
 - **Software** runs on computers.  
 - **Web apps** run in browsers on both desktop and mobile.  
 - **Mobile apps** run directly on mobile devices.  
-All are software — just built for different environments.
+All are software but just built for different environments.
 
 ---
 
