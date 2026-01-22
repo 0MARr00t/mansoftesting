@@ -89,6 +89,8 @@ The following "Index" lists all main testing modules and their sub-sections for 
 
 ---
 
+[**`^        back to top        ^`**](#manual-software-testing)
+
 # Functional Testing
 
 ## Search Functionality
@@ -351,7 +353,7 @@ The following "Index" lists all main testing modules and their sub-sections for 
 
 ---
 
-[^        back to top        ^](#manual-software-testing)
+[**`^        back to top        ^`**](#manual-software-testing)
 
 # Authentication & User Management
 
@@ -754,7 +756,7 @@ The following "Index" lists all main testing modules and their sub-sections for 
 
 ---
 
-[^        back to top        ^](#manual-software-testing)
+[**`^        back to top        ^`**](#manual-software-testing)
 
 # File and Data Handling
 
@@ -813,7 +815,7 @@ The following "Index" lists all main testing modules and their sub-sections for 
 
 ---
 
-[^        back to top        ^](#manual-software-testing)
+[**`^        back to top        ^`**](#manual-software-testing)
 
 # eCommerce and Transactions
 
@@ -1072,7 +1074,7 @@ The following "Index" lists all main testing modules and their sub-sections for 
 
 ---
 
-[^        back to top        ^](#manual-software-testing)
+[**`^        back to top        ^`**](#manual-software-testing)
 
 # System / Integration
 
@@ -1205,7 +1207,7 @@ The following "Index" lists all main testing modules and their sub-sections for 
 
 ---
 
-[^        back to top        ^](#manual-software-testing)
+[**`^        back to top        ^`**](#manual-software-testing)
 
 # Performance and Security
 
@@ -1359,7 +1361,7 @@ The following "Index" lists all main testing modules and their sub-sections for 
 
 ---
 
-[^        back to top        ^](#manual-software-testing)
+[**`^        back to top        ^`**](#manual-software-testing)
 
 # Compatibility & Accessibility
 
@@ -1400,7 +1402,7 @@ The following "Index" lists all main testing modules and their sub-sections for 
 
 ---
 
-[^        back to top        ^](#manual-software-testing)
+[**`^        back to top        ^`**](#manual-software-testing)
 
 # UI/UX Design
 
